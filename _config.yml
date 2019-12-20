@@ -1,0 +1,5 @@
+title: aya's blog
+#logo: ../Downloads/"cool images and memes"/Birefringent_Water_Ice_5.jpg #needs to be images on site's GH repo
+description: "it's nice to see an aggregation of various things you've worked on or learnt in a given time period. this is my attempt at doing that. "
+#[home]() [blog]() [teaching resources]() [good reads]() [about]()"
+theme: jekyll-theme-minimal
