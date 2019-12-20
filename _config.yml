@@ -3,3 +3,4 @@ title: aya's blog
 description: "it's nice to see an aggregation of various things you've worked on or learnt in a given time period. this is my attempt at doing that. "
 #[home]() [blog]() [teaching resources]() [good reads]() [about]()"
 theme: jekyll-theme-minimal
+github: [metadata]

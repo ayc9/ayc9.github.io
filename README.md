@@ -1,3 +1,0 @@
-# ayc9.github.io
-
-very early draft. just wanted to make sure i know how to make the site go live. design comes in later... 
