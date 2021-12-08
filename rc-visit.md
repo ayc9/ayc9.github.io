@@ -1,7 +1,8 @@
 ---
-layout: default
-title: home
-description: "it's nice to see an aggregation of various things you've worked on or learnt in a given time period. this is my attempt at doing that."
+layout: post
+date: 2019-12-19
+title: RC visit
+tags: "RC", "diary"
 ---
 # RC visit
 #### 2019-12-19

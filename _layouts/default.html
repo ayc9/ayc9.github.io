@@ -11,13 +11,15 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
 
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
-
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <p><a href="./">home  </a><a href="/blog">blog  </a><a href="/teaching">teaching  </a><a href="/reads">good reads  </a><a href="/about">about  </a></p>
+        {% if site.description %}
+          <p>{{ site.description }}</p>
+        {% endif %}
 
       </header>
       <section>
@@ -26,7 +28,7 @@
 
       </section>
       <footer>
-        <p><small>Hosted on GitHub Pages using <a href="https://github.com/orderedlist/minimal">this jekyll theme</a>.</small></p>
+        <p><small>Hosted on GitHub Pages using <a href="https://github.com/pages-themes/minimal">this jekyll theme</a>.</small></p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>

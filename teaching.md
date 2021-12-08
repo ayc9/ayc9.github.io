@@ -1,12 +1,11 @@
 ---
 layout: default
+title: teaching resources
 ---
 
-# Teaching resources
+# Some teaching resources
 
-Here are some resources I found for students around the 6th grade level. 
+Here are links or videos or other kinds of resources I found for students around the 6th grade level.
 
 ## Math
 ## Coding
-
-[home](./)

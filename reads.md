@@ -1,8 +1,9 @@
 ---
 layout: default
+title: good reads
 ---
 
-# Good reads
+# Some readings I like
 
 Here are some links to (non-technical) papers or essays I really enjoyed reading. Jump to topic: [education](), [mathematics]()
 
@@ -13,5 +14,3 @@ Dijkstra, Gattegno
 ## On mathematics
 
 Mandelbrot
-
-[home](./)
